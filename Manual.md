@@ -34,7 +34,7 @@ Una vez instalado el SDK de Android será necesario descargar e instalar una ser
 `# android`
 
 Se abrirá una nueva ventana desde donde podremos seleccionar los componentes a instalar.
-![Android SDK Manager](AndroidSDKManager.png)
+![Android SDK Manager](https://github.com/elbelga/Markdown/blob/master/AndroidSDKManager.png)
 
 Los componentes que debemos seleccionar son los siguientes:
 
